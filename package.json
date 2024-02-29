@@ -1,0 +1,32 @@
+{
+  "name": "guess-the-number",
+  "version": "1.0.0",
+  "description": "Before starting to code this project, please find a partner and play this game together verbally for a few rounds.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurlingtonCodeAcademy/guess-the-number.git"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": false,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false
+  },
+  "keywords": [
+    "nodejs",
+    "games",
+    "learn-to-program"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BurlingtonCodeAcademy/guess-the-number/issues"
+  },
+  "homepage": "https://github.com/BurlingtonCodeAcademy/guess-the-number#readme"
+}
